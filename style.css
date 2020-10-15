@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#navsec1{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 0.5%;
+    padding-right: 36%;
+    padding-left: 10%;
+    font-size: 14px;
+    
+}
+#navnav1{
+    background: #65C770;
+    height: 10vh;
+
+
+}
+#navnav1 ul{
+    display: flex;
+    justify-content: space-between;
+    padding-right: 50%;
+    padding-left: 3%;
+    padding-top: 4%;
+
+
+}
+#navnav1 ul li{
+    list-style: none;
+}
+#navnav1 ul li a{
+    text-decoration: none;
+    color: #666666;
+}
